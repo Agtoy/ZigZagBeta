@@ -20,4 +20,6 @@ https://www.androidauthority.com/how-to-install-apks-31494/ (bij het stukje "Ins
 Kijk nog even door de vragen in dit formulier zodat je weet wat ik van je nodig heb! 
 https://forms.gle/RLZpaamEctCjzMBT7
 
+**De beta duurt tot zaterdag 4 April**
+
 #### SUPER BEDANKT EN VEEL PLEZIER!
