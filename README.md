@@ -1,7 +1,7 @@
 # ZigZag
  
 #### What is ZigZag?
-It's a game made for Android devices (for now) where the player has to keep the arrow from touching the walls. By tapping the screen, the arrow will move the other way. The faster the player will move, so the question is: How far will you get?
+Je stuurt een pijltje van link naar rechts door op het scherm te drukken. Raak je andere objecten aan dan ga je dood en moet je opnieuw! De langer het spel duurt de sneller je zal gaan.. Hoe ver kan jij komen?
 
 #### Beta
 Bedankt voor het meedoen met de beta!
