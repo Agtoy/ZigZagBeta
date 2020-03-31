@@ -5,12 +5,14 @@ Je stuurt een pijltje van link naar rechts door op het scherm te drukken. Raak j
 
 #### Beta
 Bedankt voor het meedoen met de beta!
-Het enige wat je nodig hebt is de *ZigZag.apk* file, deze moet je op de telefoon zetten en installeren.
+Klik op de download knop en download de ZIP. Het enige wat je er van nodig hebt is de *ZigZag.apk* file, deze moet je op de telefoon zetten en installeren. (het is handig om dit al op je telefoon te doen) 
+
 **Lukt dit niet?**
 https://www.androidauthority.com/how-to-install-apks-31494/ (bij het stukje "Install from Unknown Sources method")
 
 
-**Kijk even door de vragen voordat je begint**, het is handig om op voorhand te weten zodat je voorbereid bent voor elke vraag! 
+**Voordat je begint!** 
+Kijk nog even door de vragen in dit formulier zodat je weet wat ik van je nodig heb! 
 https://forms.gle/RLZpaamEctCjzMBT7
 
-#### SUPER BEDANKT!
+#### SUPER BEDANKT EN VEEL PLEZIER!
